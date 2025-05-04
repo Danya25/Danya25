@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-SQL-000?&logo=postgresql)
 ![Angular](https://img.shields.io/badge/-Swift-000?&logo=angular)
 
 ### Technologies
